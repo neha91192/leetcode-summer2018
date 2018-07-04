@@ -4,3 +4,15 @@ leetcode/.project
 leetcode/bin/arraysandstrings/FindPivotIndex.class
 leetcode/.settings/org.eclipse.jdt.core.prefs
 RemoteSystemsTempFiles/.project
+leetcode/.settings/org.eclipse.jdt.ui.prefs
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_1
+*.gen
+*.lock
+*.tis
+*.tii
+*.prx
+*.nrm
+*.frq
+*.fnm
+*.fdx
+*.fdt
