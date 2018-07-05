@@ -8,6 +8,8 @@ public class FindPivotIndex {
 	 * index). If rightsum matches with the leftsum, then that candidate pivotal
 	 * index is the answer of this problem.
 	 * 
+	 * <runtime 20ms>
+	 * 
 	 * @param nums
 	 * @return integer representing pivotal index
 	 */

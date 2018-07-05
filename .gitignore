@@ -16,3 +16,4 @@ leetcode/.settings/org.eclipse.jdt.ui.prefs
 *.fnm
 *.fdx
 *.fdt
+*.class
