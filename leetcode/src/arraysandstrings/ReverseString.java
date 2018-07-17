@@ -11,10 +11,10 @@ package arraysandstrings;
  */
 public class ReverseString {
 	/**
-	 * Two pointer technique: i starts from 0 and j starts from length-1, each
-	 * element of the char array generated from string is reversed and when i>j, the
-	 * reversed char array is generated back to the string and returned as a
-	 * response.
+	 * <Problem 344> Two pointer technique: i starts from 0 and j starts from
+	 * length-1, each element of the char array generated from string is reversed
+	 * and when i>j, the reversed char array is generated back to the string and
+	 * returned as a response.
 	 * 
 	 * @param s
 	 * @return
