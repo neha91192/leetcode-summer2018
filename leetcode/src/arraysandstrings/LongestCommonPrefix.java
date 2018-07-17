@@ -40,7 +40,7 @@ public class LongestCommonPrefix {
 	}
 
 	public static void main(String[] args) {
-		String[] strs = {};
+		String[] strs = { "card", "car" };
 		String prefix = longestCommonPrefix(strs);
 		System.out.println(prefix);
 	}
